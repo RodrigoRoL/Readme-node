@@ -1,6 +1,5 @@
 # Professional ReadMe Generator
 
-undefined
   
 ## Description
   - This project app aids developers to create a ReadMe.md file in easy and simple way, this to save them time and make the task more simple
@@ -17,6 +16,7 @@ undefined
 
   ## Usage
   To use this app, - Run in the terminal the following command “node index.js” and follow the prompts
+  The following is a link to demonstrate how the app works (shows the creation of this ReadMe): https://drive.google.com/file/d/1K9ZH95-dKWTPrmaySgl_Q6juuLVIeO3G/view?usp=share_link
 
   ## Contributions
   Contributors to the app, - Starter code by https://github.com/coding-boot-camp/potential-enigma/tree/main/Develop
